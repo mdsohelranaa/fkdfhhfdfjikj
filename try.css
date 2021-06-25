@@ -1,0 +1,13 @@
+h1::after{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 20px;
+    height: 5px;
+    background-color: blue;
+
+}
+h1{
+    position: relative;
+}
